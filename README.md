@@ -6,6 +6,7 @@ This project demonstrates a login and signup system using Node.js, MongoDB, and 
 
 - User authentication (login and signup)
 - Session management with MongoDB
+- Session management with Express
 
 ## Technologies Used
 
